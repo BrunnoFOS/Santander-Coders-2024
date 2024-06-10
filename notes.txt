@@ -22,3 +22,7 @@ git diff - Usado para visualizar o que foi modificado no arquivo | Used to view 
 git commit -m - Used to add comments to commit | Usado para adicionar comentários ao commit
 
 git log - Used to view the commits history | Usado para visualizar o histórico de commits
+
+git restore - Restore the file for the last modified | Restaurar o arquivo para a última modificação
+
+git fetch - View all modifications on the origin repository  | Ver todas as modificações no repositório que serão trazidas através do git pull
